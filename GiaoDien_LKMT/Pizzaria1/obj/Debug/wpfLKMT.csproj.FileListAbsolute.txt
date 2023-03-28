@@ -1,0 +1,303 @@
+E:\wpfLKMT\wpfLKMT\Pizzaria1\bin\Debug\wpfLKMT.exe.config
+E:\wpfLKMT\wpfLKMT\Pizzaria1\bin\Debug\wpfLKMT.exe
+E:\wpfLKMT\wpfLKMT\Pizzaria1\bin\Debug\wpfLKMT.pdb
+E:\wpfLKMT\wpfLKMT\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+E:\wpfLKMT\wpfLKMT\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\wpfLKMT\wpfLKMT\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\wpfLKMT\wpfLKMT\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\UserControlEscolha.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\UserControlInicio.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\App.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\wpfLKMT_MarkupCompile.cache
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\wpfLKMT_MarkupCompile.lref
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\App.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\UserControlEscolha.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\UserControlInicio.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\wpfLKMT.g.resources
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\wpfLKMT.Properties.Resources.resources
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\wpfLKMT.csproj.GenerateResource.cache
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\wpfLKMT.csproj.CoreCompileInputs.cache
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\wpfLKMT.csproj.CopyComplete
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\wpfLKMT.exe
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\wpfLKMT.pdb
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\MainWindow.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\MainWindow.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\LoginForm.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\LoginForm.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\NhanVienWindow.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\NhanVienWindow.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlLoaiLK.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlLoaiLK.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlNhaSanXuat.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlNhaSanXuat.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlLinhKien.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\bin\Debug\MaterialDesignColors.pdb
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlLinhKien.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlNhanVien.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlNhanVien.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlHoaDon.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlHoaDon.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlLinhKienNhanVien.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlLinhKienNhanVien.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlKhachHang.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlPhieuXuat.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlKhachHang.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlPhieuXuat.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlHoaDonNhanVien.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlPhieuXuatAdmin.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlTaiKhoanNhanVien.g.cs
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlHoaDonNhanVien.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlPhieuXuatAdmin.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\obj\Debug\qlTaiKhoanNhanVien.baml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\bin\Debug\Newtonsoft.Json.dll
+E:\wpfLKMT\wpfLKMT\Pizzaria1\bin\Debug\System.Net.Http.Formatting.dll
+E:\wpfLKMT\wpfLKMT\Pizzaria1\bin\Debug\Newtonsoft.Json.xml
+E:\wpfLKMT\wpfLKMT\Pizzaria1\bin\Debug\System.Net.Http.Formatting.xml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\wpfLKMT.exe.config
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\wpfLKMT.exe
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\wpfLKMT.pdb
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\Newtonsoft.Json.dll
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\System.Net.Http.Formatting.dll
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignColors.pdb
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\Newtonsoft.Json.xml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\System.Net.Http.Formatting.xml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\LoginForm.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\MainWindow.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\NhanVienWindow.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlHoaDon.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlHoaDonNhanVien.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlKhachHang.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLinhKien.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLinhKienNhanVien.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLoaiLK.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlNhanVien.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlNhaSanXuat.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlPhieuXuat.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlPhieuXuatAdmin.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlTaiKhoanNhanVien.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\UserControlEscolha.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\UserControlInicio.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\App.g.cs
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT_MarkupCompile.cache
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT_MarkupCompile.lref
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\App.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\LoginForm.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\MainWindow.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\NhanVienWindow.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlHoaDon.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlHoaDonNhanVien.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlKhachHang.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLinhKien.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLinhKienNhanVien.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLoaiLK.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlNhanVien.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlNhaSanXuat.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlPhieuXuat.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlPhieuXuatAdmin.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlTaiKhoanNhanVien.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\UserControlEscolha.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\UserControlInicio.baml
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.g.resources
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.Properties.Resources.resources
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csproj.GenerateResource.cache
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csproj.CoreCompileInputs.cache
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csproj.CopyComplete
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.exe
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.pdb
+E:\Visual studio projects\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csprojAssemblyReference.cache
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\wpfLKMT.exe.config
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\wpfLKMT.exe
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\wpfLKMT.pdb
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csprojAssemblyReference.cache
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\LoginForm.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\MainWindow.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\NhanVienWindow.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlHoaDon.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlHoaDonNhanVien.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlKhachHang.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLinhKien.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLinhKienNhanVien.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLoaiLK.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlNhanVien.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlNhaSanXuat.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlPhieuXuat.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlPhieuXuatAdmin.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlTaiKhoanNhanVien.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\UserControlEscolha.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\UserControlInicio.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\App.g.cs
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT_MarkupCompile.cache
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT_MarkupCompile.lref
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\App.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\LoginForm.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\MainWindow.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\NhanVienWindow.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlHoaDon.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlHoaDonNhanVien.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlKhachHang.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLinhKien.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLinhKienNhanVien.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLoaiLK.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlNhanVien.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlNhaSanXuat.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlPhieuXuat.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlPhieuXuatAdmin.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlTaiKhoanNhanVien.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\UserControlEscolha.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\UserControlInicio.baml
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.g.resources
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.Properties.Resources.resources
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csproj.GenerateResource.cache
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csproj.CoreCompileInputs.cache
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csproj.CopyComplete
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.exe
+C:\Users\thuan\Desktop\Thực tập tốt nghiệp\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.pdb
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\wpfLKMT.exe.config
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\wpfLKMT.exe
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\wpfLKMT.pdb
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\Newtonsoft.Json.dll
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\System.Net.Http.Formatting.dll
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignColors.pdb
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\Newtonsoft.Json.xml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\System.Net.Http.Formatting.xml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csproj.AssemblyReference.cache
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csproj.SuggestedBindingRedirects.cache
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\LoginForm.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\MainWindow.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\NhanVienWindow.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlHoaDon.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlHoaDonNhanVien.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlKhachHang.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLinhKien.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLinhKienNhanVien.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLoaiLK.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlNhanVien.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlNhaSanXuat.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlPhieuXuat.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlPhieuXuatAdmin.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlTaiKhoanNhanVien.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\UserControlEscolha.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\UserControlInicio.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\App.g.cs
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT_MarkupCompile.cache
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT_MarkupCompile.lref
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\App.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\LoginForm.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\MainWindow.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\NhanVienWindow.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlHoaDon.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlHoaDonNhanVien.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlKhachHang.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLinhKien.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLinhKienNhanVien.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLoaiLK.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlNhanVien.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlNhaSanXuat.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlPhieuXuat.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlPhieuXuatAdmin.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlTaiKhoanNhanVien.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\UserControlEscolha.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\UserControlInicio.baml
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.g.resources
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.Properties.Resources.resources
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csproj.GenerateResource.cache
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csproj.CoreCompileInputs.cache
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csproj.CopyComplete
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.exe
+D:\wpf\Thực tập tốt nghiệp - 2021\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.pdb
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\wpfLKMT.exe.config
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\wpfLKMT.exe
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\wpfLKMT.pdb
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\Newtonsoft.Json.dll
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\System.Net.Http.Formatting.dll
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignColors.pdb
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\Newtonsoft.Json.xml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\bin\Debug\System.Net.Http.Formatting.xml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csproj.AssemblyReference.cache
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csproj.SuggestedBindingRedirects.cache
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\LoginForm.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\MainWindow.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\NhanVienWindow.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlHoaDon.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlHoaDonNhanVien.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlKhachHang.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLinhKien.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLinhKienNhanVien.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLoaiLK.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlNhanVien.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlNhaSanXuat.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlPhieuXuat.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlPhieuXuatAdmin.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlTaiKhoanNhanVien.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\UserControlEscolha.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\UserControlInicio.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\App.g.cs
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT_MarkupCompile.cache
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT_MarkupCompile.lref
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\App.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\LoginForm.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\MainWindow.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\NhanVienWindow.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlHoaDon.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlHoaDonNhanVien.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlKhachHang.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLinhKien.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLinhKienNhanVien.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlLoaiLK.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlNhanVien.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlNhaSanXuat.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlPhieuXuat.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlPhieuXuatAdmin.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\qlTaiKhoanNhanVien.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\UserControlEscolha.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\UserControlInicio.baml
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.g.resources
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.Properties.Resources.resources
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csproj.GenerateResource.cache
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csproj.CoreCompileInputs.cache
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.csproj.CopyComplete
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.exe
+D:\wpf\KLTN\GiaoDien-QuanLyBanLinhKienMayTinh\Pizzaria1\obj\Debug\wpfLKMT.pdb
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\wpfLKMT.csproj.AssemblyReference.cache
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\wpfLKMT.csproj.SuggestedBindingRedirects.cache
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\LoginForm.g.cs
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\MainWindow.g.cs
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\NhanVienWindow.g.cs
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\qlHoaDon.g.cs
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\qlHoaDonNhanVien.g.cs
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\qlKhachHang.g.cs
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\qlLinhKienNhanVien.g.cs
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\qlLoaiLK.g.cs
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\qlNhanVien.g.cs
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\qlNhaSanXuat.g.cs
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\qlPhieuXuat.g.cs
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\qlPhieuXuatAdmin.g.cs
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\qlTaiKhoanNhanVien.g.cs
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\UserControlEscolha.g.cs
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\UserControlInicio.g.cs
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\App.g.cs
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\wpfLKMT_MarkupCompile.cache
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\wpfLKMT_MarkupCompile.lref
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\wpfLKMT.exe
+C:\Users\namna\source\repos\GiaoDien_LKMT\Pizzaria1\obj\Debug\wpfLKMT.pdb
